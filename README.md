@@ -1,4 +1,6 @@
-# PornHub Downloader (phdler) - Improved version
+# License
+This project is licensed under the GNU General Public License v3.0.
+
 ## I Reposted This REPO thanks for this 
 https://github.com/mariosemes/PornHub-downloader-python
 ## Thanks To
